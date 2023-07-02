@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+
+.color{
+    font-size: 50px;
+}
+
+.btn{
+
+    font-size: 25px;
+    color: black;
+    background: rgba(255, 68, 0, 0.411);
+    border: 2px solid palevioletred;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
